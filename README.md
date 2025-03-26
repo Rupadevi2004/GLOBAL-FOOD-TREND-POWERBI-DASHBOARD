@@ -1,10 +1,14 @@
-Global Food Production Trends and Analysis: A Comprehensive Study from 1961 to 2023 Using Power BI Category: Data Analytics with PowerBI
+Project Title: Global Food Production Trends and Analysis: A Comprehensive Study from 1961 to 2023 Using Power BI Category: Data Analytics with PowerBI
+
+Team ID : PNT2025TMID07288
+
+Team Size : 1
+
+Team Leader : Mundru Rupadevi
 
 Skills Required: Data Preprocessing Techniques
 
 Project Description:
-
-Introduction:
 
 ABC Company undertook a comprehensive study of global food production trends from 1961 to 2023, leveraging Power BI for insightful visualizations. The analysis encompassed key agricultural commodities, revealing that total rice production amounted to 269 billion tonnes, while wheat production reached 282 billion tonnes. The study highlighted that tea production stood at 2 billion tonnes, with Africa emerging as the leading producer of green coffee. Additionally, the research underscored a steady rise in wheat, maize, and rice production over the years, with wheat showing the most significant increase.
 
